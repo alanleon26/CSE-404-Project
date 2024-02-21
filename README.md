@@ -10,7 +10,7 @@ This Git repository serves as a comprehensive starter kit for facial recognition
 
 This folder contains the foundational code to kickstart your facial recognition project.
 
-initial_train+test_ideas.ipynb- unrefined facial recognition code very rough draft. Need to work on refining. It has a layout which shows how to train an test image data within it. Will use this to build a more refined model. 
+initial_train+test_ideas.ipynb- unrefined facial recognition code very rough draft. Need to work on refining. It has a basic layout which shows how to train an test image data within it. Will use this to build a more refined model. 
 
 ### 2. Pretrained Facial Recognition Models
 
