@@ -18,5 +18,4 @@ In this folder, you'll find pretrained facial recognition models ready for testi
 
 ### 3. Validation Face Images
 
-Contains images of the classes (people) within the Facial Recognition but these images are not within the dataset itself. These are outside validation images to test the model on different image styles/quality and test each models respective robustness.
-
+Contains images of the classes (people) within the Facial Recognition but these images are not within the dataset itself. These are outside validation images to test the model on different image styles/quality and test each models respective robustness. We can modify these images when testing if the models we have are more accurate on certain factors. For example, for a model that is trained on all the images converted to blues it would be crucial to modify the validation image to blue before using the model to predict the class on that image.
