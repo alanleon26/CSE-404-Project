@@ -14,3 +14,7 @@ This folder contains the foundational code to kickstart your facial recognition 
 
 In this folder, you'll find pretrained facial recognition models ready for use. These models are trained on the Well Known Faces datasets, providing a solid foundation for accurate and efficient facial recognition in your applications.
 
+### 3. Validation Face Images
+
+Contains images of the classes (people) within the Facial Recognition but these images are not from the dataset. These are outside validation images to test the model on different image styles/quality.
+
