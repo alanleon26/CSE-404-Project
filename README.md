@@ -8,13 +8,15 @@ This Git repository serves as a comprehensive starter kit for facial recognition
 
 ### 1. Beginning Code for Facial Recognition
 
-This folder contains the foundational code to kickstart your facial recognition project. It is very unrefined from an old group project, I will post a refined version soon
+This folder contains the foundational code to kickstart your facial recognition project.
+
+initial_train+test_ideas.ipynb- unrefined pprevious facial recognition code. Need to work on refining.
 
 ### 2. Pretrained Facial Recognition Models
 
-In this folder, you'll find pretrained facial recognition models ready for use. These models are trained on the Well Known Faces datasets, providing a solid foundation for accurate and efficient facial recognition in your applications.
+In this folder, you'll find pretrained facial recognition models ready for testing. These models are trained on the Well Known Faces dataset in various ways, providing a solid foundation for accurate and efficient facial recognition in your applications.
 
 ### 3. Validation Face Images
 
-Contains images of the classes (people) within the Facial Recognition but these images are not from the dataset. These are outside validation images to test the model on different image styles/quality.
+Contains images of the classes (people) within the Facial Recognition but these images are not within the dataset itself. These are outside validation images to test the model on different image styles/quality and test each models respective robustness.
 
